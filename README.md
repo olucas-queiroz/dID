@@ -1,2 +1,2 @@
 # dID
-Identificando dispositivo.
+Identifying device.
