@@ -1,7 +1,14 @@
+@font-face {
+  font-family: "Neue Machina";
+  src: url("font/NeueMachina-Ultrabold.otf");
+}
+
 body {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
-  font-family: "Creolia";
+  font-family: "Neue Machina";
+  background-color: #000;
+  color: #fff;
 }
